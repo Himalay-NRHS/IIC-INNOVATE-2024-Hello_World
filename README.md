@@ -13,12 +13,12 @@ The goal of this hackathon is to foster creativity, teamwork, and innovation amo
 
 ## Team Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** Hello_World
 
 ### Team Members
 
 1. **Member 1**  
-   - **Name:** [Full Name]  
+   - **Name:**   
    - **USN:** [University Serial Number]
 
 2. **Member 2**  
